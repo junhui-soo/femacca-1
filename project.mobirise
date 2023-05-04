@@ -50,7 +50,7 @@
     "mcSmartCart": {
       "currency": "USD"
     },
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
